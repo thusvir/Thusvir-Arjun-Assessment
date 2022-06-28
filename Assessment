@@ -1,6 +1,8 @@
 Database challenge 
 Question 1:
  
+ *Attched as Question 1 on repository 
+ 
 Question 2:
 
 update [EmployeeFile] set[EmployeeFile].email=REPLACE([Employee File].email,Substring([EmployeeFile].email,charindex
